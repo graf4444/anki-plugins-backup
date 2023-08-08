@@ -1,0 +1,89 @@
+{
+    "0101-User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36",
+
+
+    "0201-Display 'Add Pronunciation' button?": "Yes",
+    "0202-Display 'Add 1st Definition' button?": "Yes",
+    "0203-Display 'Add All Definitions' button?": "Yes",
+    "0204-Display 'Add Translation' button?": "Yes",
+    "0205-Add labels to play buttons?": "Yes",
+
+
+    "0301-Pronunciation field number": "1",
+    "03011-Pronunciation US field number": "4",
+    "03012-Pronunciation GB field number": "5",
+    "0302-Add US pronunciation?": "Yes",
+    "0303-Add GB pronunciation?": "Yes",
+    "0304-US or GB pronunciation first?": "US",
+    "0305-Keep pronunciation duplicates?": "No",
+
+
+    "0401-Not overwrite separator": "<br><br>-----------------------------<br><br>",
+    "0402-Not overwrite separator color": "grey",
+    "0403-Titles color": "black",
+    "0404-Synonyms and antonyms separator": ", ",
+    "0405-Overwrite 1st Definition?": "No",
+    "0406-Overwrite All Definitions?": "No",
+
+
+    "0501-1st Definition phonetic field number": "2",
+    "0502-1st Definition phonetic title": "",
+    "0503-1st Definition phonetic color": "black",
+
+    "0511-1st Definition part of speech field number": "2",
+    "0512-1st Definition part of speech title": "",
+    "0513-1st Definition part of speech color": "black",
+
+    "0521-1st Definition definition field number": "2",
+    "0522-1st Definition definition title": "",
+    "0523-1st Definition definition color": "black",
+
+    "0531-1st Definition example field number": "2",
+    "0532-1st Definition example title": "",
+    "0533-1st Definition example color": "grey",
+
+    "0541-1st Definition synonyms field number": "2",
+    "0542-1st Definition synonyms title": "Similar: ",
+    "0543-1st Definition synonyms color": "grey",
+
+    "0551-1st Definition antonyms field number": "2",
+    "0552-1st Definition antonyms title": "Opposite: ",
+    "0553-1st Definition antonyms color": "grey",
+
+
+    "0601-All Definitions field number": "2",
+    
+    "0611-All Definitions phonetic field number": "2",
+    "0612-All Definitions phonetic title": "",
+    "0613-All Definitions phonetic color": "black",
+
+    "0621-All Definitions part of speech field number": "2",
+    "0622-All Definitions part of speech title": "",
+    "0623-All Definitions part of speech color": "black",
+    
+    "0631-All Definitions definition field number": "2",
+    "0632-All Definitions definition title": "",
+    "0633-All Definitions definition color": "black",
+    
+    "0641-All Definitions example field number": "2",
+    "0642-All Definitions example title": "",
+    "0643-All Definitions example color": "grey",
+    
+    "0651-All Definitions synonyms field number": "2",
+    "0652-All Definitions synonyms title": "Similar: ",
+    "0653-All Definitions synonyms color": "grey",
+    
+    "0661-All Definitions antonyms field number": "2",
+    "0662-All Definitions antonyms title": "Opposite: ",
+    "0663-All Definitions antonyms color": "grey",
+
+
+    "0701-Translation field number": "2",
+    "0702-Translation target language": "fr",
+    "0703-Add language name to translation title?": "Yes",
+    "0704-Translation title": ": ",
+    "0705-Translation color": "black",
+    "0706-Add transliteration to translation?": "Yes",
+    "0707-Transliteration color": "grey",
+    "0708-Overwrite translation?": "No"
+}
